@@ -5,7 +5,7 @@ Study at KOSEN KMUTT
 
 * 🌍  I'm based in Lopburi
 * ✉️  You can contact me at [phattarawat12cg@gmail.com](mailto:phattarawat12cg@gmail.com)
-* 🧠  I'm learning Rust programming , Machine learning
+* 🧠  I'm current learning blockchain and machine learning
 
 
 
