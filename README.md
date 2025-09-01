@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data analysis and machine learning**
 
-- 📫 How to reach me **phattarawat12cg@gmail.com**
+- 📫 **phattarawat12cg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
